@@ -7,5 +7,5 @@ Merhaba adım Ege ve 15 yaşındayım. 1 yıl önce Discord botları geliştirer
 ![Profile views](https://gpvc.arturio.dev/deussxd)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=deussxd&show_icons=true)  
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/924636223895662592hideDiscrim=true)](https://discord.com/users/924636223895662592)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/796263552771817472?hideDiscrim=true)](https://discord.com/users/924636223895662592)
 [Sunucumuza Katılmak İçin Tıkla!](https://discord.gg/ata44) 
