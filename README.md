@@ -7,4 +7,4 @@ Merhaba adım Ege ve 14 yaşındayım
 ![Profile views](https://gpvc.arturio.dev/deussxd)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=deussxd&show_icons=true)  
-[Sunucumuza Katılmak İçin Tıkla!](https://discord.gg/ata44) 
+
