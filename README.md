@@ -1,6 +1,6 @@
-### Selamlar Millet! Ben Deus 🖐
+### Selamlar Millet! Ben Ege 🖐
 
-Merhaba adım Ege ve 15 yaşındayım. 1 yıl önce Discord botları geliştirerek başladım. bu konuda hâlâ oldukça yeniyim. Henüz programlama dilleri arasından sadece JavaScript'i biliyorum.
+Merhaba adım Ege ve 15 yaşındayım
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/deussxd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/deussxd_/)
 
